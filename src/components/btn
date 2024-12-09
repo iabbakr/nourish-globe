@@ -1,0 +1,5 @@
+<div className="buttons">
+        <button>Learn More</button>
+        <button>Join Us</button>
+        <button>Our Impact</button>
+      </div>
