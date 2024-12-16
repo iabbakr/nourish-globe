@@ -3,30 +3,37 @@ import React from 'react';
 const Programs = () => (
   <div className="programs">
     <section>
-      <h2>Our Farms and Data-Driven Consultancy</h2>
+      <h2>Our Farms</h2>
       <p>
-        Our farms serve as a foundation for our consultancy, allowing us to test and refine sustainable practices. We cultivate diverse crops and provide evidence-based insights to smallholder farmers.
+      Our farms serve as a foundation for consultancy, enabling us to test and refine sustainable agricultural practices. We cultivate a diverse range of crops while providing evidence-based insights to empower smallholder farmers to improve yields and food security.
       </p>
     </section>
 
     <section>
-      <h2>AI-Driven Consultancy</h2>
+      <h2>Data-Driven Consultancy</h2>
       <p>
-        Our platform provides farmers with data-backed insights for better decision-making on crop management, soil health, and resource allocation.
+      Leverage cutting-edge data-driven approaches to provide actionable insights that transform farming practices and enhance food systems.
       </p>
     </section>
 
     <section>
-      <h2>Solar-Powered Agroforestry Training Centers</h2>
+      <h2>Regenerative/Agroforestry Training Center</h2>
       <p>
-        In partnership with renewable energy initiatives, we oversee centers that provide hands-on training for farmers, supporting sustainable cultivation and biodiversity.
+        Train agricultural stakeholders in climate-smart and agroforestry techniques using renewable energy solutions to maximize productivity while protecting the environment.
       </p>
     </section>
 
     <section>
-      <h2>CO2 Cooling System</h2>
+      <h2>Post-Harvest Innovation</h2>
       <p>
-        Our cooling systems reduce post-harvest losses, extending produce shelf life, increasing farmer incomes, and reducing food waste.
+      Develop and implement post-harvest solutions that reduce losses and improve product value.
+      </p>
+    </section>
+    <section>
+      <h2>Nutrition Path</h2>
+      <p>
+      Promote the integration of nutrient-dense crops into meals, ensuring families move beyond just production to consuming food with maximum nutritional value.
+      
       </p>
     </section>
   </div>

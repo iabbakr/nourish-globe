@@ -8,7 +8,7 @@ const Home = () => (
   <div className="home">
     <section className="hero">
       <h1>Empowering Farmers, Strengthening Communities</h1>
-      <p>Transforming agriculture with sustainable solutions for a future where no one goes hungry.</p>
+      <p>Transforming Agriculture with Sustainable Solutions for a Nourished and Hunger-Free Future.</p>
       
     </section>
 
@@ -37,7 +37,7 @@ const Home = () => (
 
     <section className="vision">
       <p>
-        Nourish Globe is committed to revolutionizing agriculture and food systems to empower smallholder farmers, promote environmental sustainability, and foster an inclusive, resilient future.
+      We envision a world where sustainable agriculture nourishes people and the planet, paving the way for resilient and thriving communities.
       </p>
     </section>
   </div>
