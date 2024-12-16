@@ -5,9 +5,7 @@ import Footer from './components/Footer';
 import Home from './components/Home';
 import About from './components/About';
 import Programs from './components/programs';
-import Impact from './components/Impact';
 import JoinUs from './components/JoinUs';
-import Contact from './components/Contact';
 
 const App = () => {
   return (
@@ -17,9 +15,7 @@ const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/programs" element={<Programs />} />
-        <Route path="/impact" element={<Impact />} />
         <Route path="/join-us" element={<JoinUs />} />
-        <Route path="/contact" element={<Contact />} />
       </Routes>
       <Footer />
     </Router>
