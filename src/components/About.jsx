@@ -5,7 +5,7 @@ const About = () => (
     <section className="mission-vision">
       <h2>Mission</h2>
       <p>
-        Nourish Group is dedicated to empowering rural communities and smallholder farmers through innovative, data-driven agricultural solutions. We prioritize gender equity, climate resilience, and sustainable development to ensure that agriculture benefits everyone.
+      Nourish Globe empowers communities and smallholder farmers through data-driven agricultural solutions, fostering sustainable development, improved nutrition, and climate resilience while advancing gender equality for lasting impact.
       </p>
       <h2>Vision</h2>
       <p>
